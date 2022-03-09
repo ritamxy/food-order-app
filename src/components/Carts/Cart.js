@@ -26,6 +26,7 @@ const Cart = (props) => {
       ))}
     </ul>
   );
+
   return (
     <Modal>
       {cartItems}
